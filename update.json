@@ -1,10 +1,10 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.5",
+  "versionCode": 16,
+  "versionName": "1.0.6",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/NexusAppMaker/appupdate/releases/download/v1.0.5/MedTrack-1.0.5.apk",
-  "apkSha256": "de422d956ed7b0f065a09ec11f1ef1a36ed97dbe84dff231a4aa58086c55361f",
-  "apkSizeBytes": 21569882,
-  "releaseNotes": "What's new  \u2022 POB \u2014 Record products given to doctors with amount; monthly totals on Home and POB screen \u2022 Working days \u2014 In Today's Work, mark if you worked, took leave, or holiday; Sundays are marked automatically; monthly summary \u2022 App updates \u2014 When a new version is published, a popup can appear after opening the app (or check from Settings) \u2022 Home screen \u2014 POB total under Today's calls; DSR label; Profile, Settings, Backup restored under More "
+  "apkUrl": "https://github.com/NexusAppMaker/appupdate/releases/download/v1.0.6/MedTrack-1.0.6.apk",
+  "apkSha256": "92ed717612224657574b3f4cb32eccbc373750863e1af6325075a7b48a7f6b45",
+  "apkSizeBytes": 21569886,
+  "releaseNotes": "MedTrack \u2014 What's New\\n\\nPOB\\n\u2022 Track products and amount given to each doctor\\n\u2022 See this month\u2019s total on Home and on the POB screen\\n\\nWorking days\\n\u2022 Mark today as Work, Leave, or Holiday\\n\u2022 Sundays are set automatically\\n\u2022 Monthly summary of worked / leave / holiday / Sunday\\n\\nUpdates\\n\u2022 Popup when a new version is available\\n\u2022 You can also check from Settings\\n\\nHome\\n\u2022 POB total shown under Today\u2019s calls\\n\u2022 Profile, Settings, and Backup under More\\n"
 }
