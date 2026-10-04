@@ -1,0 +1,10 @@
+{
+  "versionCode": 15,
+  "versionName": "1.0.5",
+  "minSupportedVersionCode": 1,
+  "forceUpdate": false,
+  "apkUrl": "https://github.com/NexusAppMaker/appupdate/releases/download/v1.0.5/MedTrack-1.0.5.apk",
+  "apkSha256": "de422d956ed7b0f065a09ec11f1ef1a36ed97dbe84dff231a4aa58086c55361f",
+  "apkSizeBytes": 21569882,
+  "releaseNotes": "What's new  \u2022 POB \u2014 Record products given to doctors with amount; monthly totals on Home and POB screen \u2022 Working days \u2014 In Today's Work, mark if you worked, took leave, or holiday; Sundays are marked automatically; monthly summary \u2022 App updates \u2014 When a new version is published, a popup can appear after opening the app (or check from Settings) \u2022 Home screen \u2014 POB total under Today's calls; DSR label; Profile, Settings, Backup restored under More "
+}
